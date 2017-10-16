@@ -1,2 +1,2 @@
-# C--Projects
+# Cpp-Projects
 My C++ projects repository.
